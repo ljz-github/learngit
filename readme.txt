@@ -3,3 +3,6 @@ second edit this txt;1
 third
 forth
 fifth
+sixth
+seventh
+create deb
